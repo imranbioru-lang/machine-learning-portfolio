@@ -3,6 +3,7 @@ A structured portfolio documenting my hands-on learning journey in machine learn
 # Machine Learning Portfolio
 This repository documents my hands-on learning journey in Machine Learning.
 The focus is on understanding core concepts through implementation, evaluation, and clear explanation.
+Thanks to Udemy.
 ## Topics Covered
 - Data Preprocessing
 - Regression Models
