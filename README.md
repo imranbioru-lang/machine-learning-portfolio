@@ -1,6 +1,6 @@
 # machine-learning-portfolio
 A structured portfolio documenting my hands-on learning journey in machine learning using Python and scikit-learn.
-Thanks to # SuperDataScience
+Thanks to SuperDataScience
 # Machine Learning 
 This repository documents my hands-on learning journey in Machine Learning.
 The focus is on understanding core concepts through implementation, evaluation, and clear explanation.
